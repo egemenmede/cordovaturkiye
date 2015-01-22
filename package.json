@@ -1,0 +1,12 @@
+{
+    "name": "cordova.turkiye",
+    "title": "PhoneGap/Cordova Geliştiricileri Türkiye Topluluğu",
+    "description": "PhoneGap/Cordova Geliştiricileri Türkiye Topluluğu Google Plus Sayfası Kısayolu.",
+    "homepage": "https://plus.google.com/communities/117075673032309282055",
+    "version": "1.0.0",
+    "author": "Egemen Mede <egemenmede@gmail.com> (http://www.delipenguen.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
